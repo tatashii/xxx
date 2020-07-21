@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Udacity_Sixth_App</string>
+    <string name="no_connection"> No Connection \n try again</string>
+</resources>
